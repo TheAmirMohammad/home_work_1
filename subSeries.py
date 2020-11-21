@@ -20,3 +20,12 @@ def newNum(number,n):
     return int(result)
 
 n = int(input())
+
+for j in range(1 , n+1):
+    a = ''
+    for i in range(j,n+1):
+        a += str(i)
+    # print(a)
+    pr(int(a),n)
+
+print("{ }")
