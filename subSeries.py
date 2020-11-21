@@ -1,0 +1,1 @@
+# a program to print all sub series
